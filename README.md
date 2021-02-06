@@ -6,6 +6,4 @@ Diretório para treinar comandos do GIT
 ### GitTreinamento
 ##### GitTreinamento
 ###### GitTreinamento
-####### GitTreinamento
-
-:chicken
+:computer:
