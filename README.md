@@ -7,3 +7,7 @@ Diretório para treinar comandos do GIT
 ##### GitTreinamento
 ###### GitTreinamento
 :computer:
+
+:computer_mouse:
+
+:desktop_computer:
