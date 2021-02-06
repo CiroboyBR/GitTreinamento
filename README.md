@@ -11,3 +11,5 @@ Diretório para treinar comandos do GIT
 :computer_mouse:
 
 :desktop_computer:
+
+:children_crossing:
